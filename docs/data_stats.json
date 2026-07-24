@@ -1,9 +1,9 @@
 {
- "updated": "2026-07-23T13:30:14.916Z",
+ "updated": "2026-07-24T07:36:50.645Z",
  "brent": {
-  "last": 86.83,
-  "d14_pct": 13.8,
-  "chart_points": "0,19 7,0 14,11 21,28 28,10 36,23 43,47 50,50 57,47 64,39 71,29 78,35 85,34 93,25 100,17 107,19 114,36 121,43 128,41 135,52 142,66 149,68 157,73 164,64 171,62 178,57 185,64 192,70 199,67 206,74 214,70 221,77 228,86 235,98 242,109 249,108 256,107 263,112 271,115 278,124 285,120 292,129 299,126 306,126 313,130 320,129 327,129 335,123 342,112 349,117 356,118 363,97 370,93 377,93 384,95 392,84 399,81 406,76 413,67 420,87",
+  "last": 98.66,
+  "d14_pct": 29.8,
+  "chart_points": "0,0 7,11 14,28 21,10 28,23 36,47 43,50 50,47 57,39 64,29 71,35 78,34 85,25 93,17 100,19 107,36 114,43 121,41 128,52 135,66 142,68 149,73 157,64 164,62 171,57 178,64 185,70 192,67 199,74 206,70 214,77 221,86 228,98 235,109 242,108 249,107 256,112 263,115 271,124 278,120 285,129 292,126 299,126 306,130 313,129 320,129 327,123 335,112 342,117 349,118 356,97 363,93 370,93 377,95 384,84 392,81 399,76 406,67 413,49 420,54",
   "chart_min": 71.57,
   "chart_max": 118.03
  },
@@ -12,36 +12,36 @@
  "stations": {
   "81130001": {
    "name": "Interm. Cagnac",
-   "n_days": 1,
+   "n_days": 2,
    "fuels": {
     "gazole": {
      "last": 2.139,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 2.139,
+     "chart_max": 2.139,
      "correl_brent": null
     },
     "e10": {
      "last": 1.989,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 1.989,
+     "chart_max": 1.989,
      "correl_brent": null
     },
     "sp98": {
      "last": 2.039,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 2.039,
+     "chart_max": 2.039,
      "correl_brent": null
     },
     "e85": {
@@ -56,33 +56,33 @@
     }
    },
    "meteo": {
-    "icone": "?",
-    "tendance": "Historique insuffisant",
-    "proba": null
+    "icone": "🌧",
+    "tendance": "Hausse probable (2 sem.)",
+    "proba": 85
    }
   },
   "81150003": {
    "name": "Total Marssac",
-   "n_days": 1,
+   "n_days": 2,
    "fuels": {
     "gazole": {
-     "last": 2.056,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "last": 2.122,
+     "d7": 3.2,
+     "d14": 3.2,
+     "d30": 3.2,
+     "chart_points": "0,130 420,0",
+     "chart_min": 2.056,
+     "chart_max": 2.122,
      "correl_brent": null
     },
     "e10": {
      "last": 1.99,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 1.99,
+     "chart_max": 1.99,
      "correl_brent": null
     },
     "sp98": {
@@ -107,60 +107,60 @@
     }
    },
    "meteo": {
-    "icone": "?",
-    "tendance": "Historique insuffisant",
-    "proba": null
+    "icone": "🌧",
+    "tendance": "Hausse probable (2 sem.)",
+    "proba": 85
    }
   },
   "81380001": {
    "name": "Leclerc Lescure",
-   "n_days": 1,
+   "n_days": 2,
    "fuels": {
     "gazole": {
      "last": 2.142,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 2.142,
+     "chart_max": 2.142,
      "correl_brent": null
     },
     "e10": {
      "last": 1.989,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 1.989,
+     "chart_max": 1.989,
      "correl_brent": null
     },
     "sp98": {
      "last": 2.039,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 2.039,
+     "chart_max": 2.039,
      "correl_brent": null
     },
     "e85": {
      "last": 0.809,
-     "d7": null,
-     "d14": null,
-     "d30": null,
-     "chart_points": "",
-     "chart_min": null,
-     "chart_max": null,
+     "d7": 0,
+     "d14": 0,
+     "d30": 0,
+     "chart_points": "0,130 420,130",
+     "chart_min": 0.809,
+     "chart_max": 0.809,
      "correl_brent": null
     }
    },
    "meteo": {
-    "icone": "?",
-    "tendance": "Historique insuffisant",
-    "proba": null
+    "icone": "🌧",
+    "tendance": "Hausse probable (2 sem.)",
+    "proba": 85
    }
   }
  }
