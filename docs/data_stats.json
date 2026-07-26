@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T07:23:16.454Z",
+ "updated": "2026-07-26T07:40:45.036Z",
  "brent": {
   "last": 96.78,
   "d14_pct": 27.3,
@@ -12,14 +12,14 @@
  "stations": {
   "81130001": {
    "name": "Interm. Cagnac",
-   "n_days": 3,
+   "n_days": 4,
    "fuels": {
     "gazole": {
      "last": 2.147,
      "d7": 0.4,
      "d14": 0.4,
      "d30": 0.4,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 2.139,
      "chart_max": 2.147,
      "correl_brent": null
@@ -29,7 +29,7 @@
      "d7": 0.5,
      "d14": 0.5,
      "d30": 0.5,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 1.989,
      "chart_max": 1.999,
      "correl_brent": null
@@ -39,7 +39,7 @@
      "d7": 0.8,
      "d14": 0.8,
      "d30": 0.8,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 2.039,
      "chart_max": 2.055,
      "correl_brent": null
@@ -63,14 +63,14 @@
   },
   "81150003": {
    "name": "Total Marssac",
-   "n_days": 3,
+   "n_days": 4,
    "fuels": {
     "gazole": {
      "last": 2.122,
      "d7": 3.2,
      "d14": 3.2,
      "d30": 3.2,
-     "chart_points": "0,130 210,0 420,0",
+     "chart_points": "0,130 140,0 280,0 420,0",
      "chart_min": 2.056,
      "chart_max": 2.122,
      "correl_brent": null
@@ -80,7 +80,7 @@
      "d7": 0,
      "d14": 0,
      "d30": 0,
-     "chart_points": "0,130 210,130 420,130",
+     "chart_points": "0,130 140,130 280,130 420,130",
      "chart_min": 1.99,
      "chart_max": 1.99,
      "correl_brent": null
@@ -90,7 +90,7 @@
      "d7": 0,
      "d14": 0,
      "d30": 0,
-     "chart_points": "0,130 420,130",
+     "chart_points": "0,130 210,130 420,130",
      "chart_min": 1.99,
      "chart_max": 1.99,
      "correl_brent": null
@@ -114,14 +114,14 @@
   },
   "81380001": {
    "name": "Leclerc Lescure",
-   "n_days": 3,
+   "n_days": 4,
    "fuels": {
     "gazole": {
      "last": 2.149,
      "d7": 0.3,
      "d14": 0.3,
      "d30": 0.3,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 2.142,
      "chart_max": 2.149,
      "correl_brent": null
@@ -131,19 +131,19 @@
      "d7": 1.1,
      "d14": 1.1,
      "d30": 1.1,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 1.989,
      "chart_max": 2.01,
      "correl_brent": null
     },
     "sp98": {
-     "last": 2.068,
-     "d7": 1.4,
-     "d14": 1.4,
-     "d30": 1.4,
-     "chart_points": "0,130 210,130 420,0",
+     "last": 2.079,
+     "d7": 2,
+     "d14": 2,
+     "d30": 2,
+     "chart_points": "0,130 140,130 280,36 420,0",
      "chart_min": 2.039,
-     "chart_max": 2.068,
+     "chart_max": 2.079,
      "correl_brent": null
     },
     "e85": {
@@ -151,7 +151,7 @@
      "d7": 1.2,
      "d14": 1.2,
      "d30": 1.2,
-     "chart_points": "0,130 210,130 420,0",
+     "chart_points": "0,130 140,130 280,0 420,0",
      "chart_min": 0.809,
      "chart_max": 0.819,
      "correl_brent": null
